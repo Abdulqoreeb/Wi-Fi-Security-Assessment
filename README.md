@@ -50,7 +50,7 @@ A mobile-only Wi-Fi security assessment lab, built entirely on Android using Ter
 
 `[screenshot: F-Droid Termux page]`
 `[screenshot: download in progress]`
-`[screenshot: install permission — "allow install from this source"]`
+![Hotspot settings screen](screenshots/05-pkg-update-output.jpg)
 
 ### Step 3 — Update Packages / Sabunta Packages
 ```bash
